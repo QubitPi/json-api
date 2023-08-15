@@ -1,5 +1,5 @@
 url: "https://qubitpi.github.io"
-baseurl: "/jaon-api"
+baseurl: "/json-api"
 source: .
 destination: ./public
 
